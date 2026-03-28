@@ -1,0 +1,9 @@
+funções de configuração foram pensadas na pasta de componentes como parte do desing system, uma das
+funções por exemplo é o theme change(mudar o tema, escuro e claro), cada uma vai ter um view model e
+a função em si, na parte de Samples eu penso em aplicar uma tela inicial de configurações na atual
+"themeChangingSampleScreen" e torna-lá uma "configSampleScreen" onde terá varias funções relacionadas
+a configuração, como troca de tema, lingua, tamanho das letras e um campo para mudar o perfil 
+(configurações sobre). 
+
+Criei duas funcionalidades, Letter Change e Language Change, agora preciso modificar o Sample Screen para
+a tela de configurações
